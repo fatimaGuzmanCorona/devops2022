@@ -22,6 +22,7 @@ import mx.edu.itlapiedad.dao.UusariosJDBC;
 
 import org.springframework.web.bind.annotation.RequestParam;
 
+// BIENVENIDO AL CAMBIO 
 //Anotaciones para configurar la clase como un controlador HTTP
 @RestController
 @RequestMapping("/api/mensajes")
